@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TacoDark
+- 👀 I’m interested in Music and Coding
+- 🌱 I’m currently learning Coding
+- 💞️ I’m looking to collaborate on Nothing
+- 📫 How to reach me Discord
