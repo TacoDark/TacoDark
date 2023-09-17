@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @TacoDark
-- 👀 I’m interested in Music and Coding
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on... Absolutely Nothing!
-- 📫 How to reach me is threw Discord
+# TacoDark!
+hello, i make music and code sometimes.
+
+## Stats
+![](https://github-readme-stats.vercel.app/api?username=TacoDark&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=TacoDark&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TacoDark&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
