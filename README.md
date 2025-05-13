@@ -1,6 +1,6 @@
 # TacoDark!
 hey, hey, yeah, you!
-i am taco i am a vice chairman for synergy enterprises and i develop games
+I am ryan, founder if nightlight development and CTO of VIP Servers
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=TacoDark&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
