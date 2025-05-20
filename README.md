@@ -30,7 +30,7 @@
 ## 📬 Connect with me!
 
 - 🌐 ryanpc.my.canva.site
-- 💬 Discord: `TacoDark#0001`
+- 💬 Discord: `ryandoesdevelopershit`
 
 ---
 
