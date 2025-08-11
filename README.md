@@ -30,7 +30,8 @@
 
 ## 📬 Connect with me!
 
-- 🌐 ryanpc.my.canva.site
+- 🌐 ryanpc.org
+- :email: ryan@ryanpc.org
 - 💬 Discord: `ryandoesdevelopershit`
 
 ---
