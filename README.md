@@ -1,9 +1,4 @@
-# 👋 Hey there, I'm TacoDark!
-
-🌌 Just a passionate developer tinkering with code and making random cool stuff.  
-💻 I work on everything from python scripts to full-on games and Discord integrations.
-
----
+# FOR MORE INFO, MY WEBSITE PLEASE.
 
 ## 📊 GitHub Stats
 
@@ -17,23 +12,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TacoDark&theme=tokyonight)
 
----
 
-## 🧠 Skills
 
-- 💾 Batch scripting
-- 🌐 Web (HTML, CSS, JS)
-- 🐍 Python
-- 🛠 Game Development, Automation, Mods
-
----
-
-## 📬 Connect with me!
-
-- 🌐 ryanpc.org
+🌐 ryanpc.org
 - :email: ryan@ryanpc.org
-- 💬 Discord: `ryandoesdevelopershit`
-
----
-
-> ⚡ *Creating weirdly fun things, one script at a time.*
