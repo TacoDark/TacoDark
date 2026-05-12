@@ -1,10 +1,9 @@
 # NOTICE
-I make commits under the name Ryan Kurtz, not my actual github account.
 Info about me is on my site ryanpc.org
 
 ## 📊 GitHub Stats
 
-![Snek.](https://raw.githubusercontent.com/xiyaowong/commit-snake/refs/heads/snk/snk.svg)
+![Snek.](https://raw.githubusercontent.com/TacoDark/commit-snake/refs/heads/snk/snk.svg)
 
 ---
 
